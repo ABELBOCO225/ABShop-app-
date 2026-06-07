@@ -1,0 +1,77 @@
+{
+  "conversations": [
+    { "input": "bonjour", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+    { "input": "salut", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+    { "input": "bonsoir", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+    { "input": "hey", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+    { "input": "hello", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+    { "input": "coucou", "output": "Bonjour ! Bienvenue sur AbShop, comment puis-je vous aider ?" },
+
+    { "input": "vous vendez quoi", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+    { "input": "vendez quoi", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+    { "input": "que vendez vous", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+    { "input": "vos produits", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+    { "input": "catalogue", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+    { "input": "quoi acheter", "output": "AbShop vend des produits électroniques, vêtements et accessoires." },
+
+    { "input": "livraison", "output": "Nous livrons partout en Algérie sous 3 à 5 jours ouvrables." },
+    { "input": "vous livrez où", "output": "Nous livrons partout en Algérie sous 3 à 5 jours ouvrables." },
+    { "input": "délai de livraison", "output": "Nous livrons partout en Algérie sous 3 à 5 jours ouvrables." },
+    { "input": "combien de jours", "output": "Nous livrons partout en Algérie sous 3 à 5 jours ouvrables." },
+    { "input": "livraison rapide", "output": "Nous livrons partout en Algérie sous 3 à 5 jours ouvrables." },
+    { "input": "livraison gratuite", "output": "La livraison est gratuite à partir de 5000 DA d'achat." },
+
+    { "input": "comment payer", "output": "Vous pouvez payer par carte bancaire, virement ou à la livraison." },
+    { "input": "modes de paiement", "output": "Vous pouvez payer par carte bancaire, virement ou à la livraison." },
+    { "input": "paiement", "output": "Vous pouvez payer par carte bancaire, virement ou à la livraison." },
+    { "input": "carte bancaire", "output": "Vous pouvez payer par carte bancaire, virement ou à la livraison." },
+    { "input": "paiement à la livraison", "output": "Oui, le paiement à la livraison est disponible partout en Algérie." },
+
+    { "input": "retour", "output": "Vous avez 14 jours pour retourner un article. Contactez-nous par email." },
+    { "input": "retourner un article", "output": "Vous avez 14 jours pour retourner un article. Contactez-nous par email." },
+    { "input": "remboursement", "output": "Le remboursement est effectué sous 5 jours après réception du retour." },
+    { "input": "rembourser", "output": "Le remboursement est effectué sous 5 jours après réception du retour." },
+
+    { "input": "suivre ma commande", "output": "Votre numéro de suivi est envoyé par email après expédition." },
+    { "input": "suivi commande", "output": "Votre numéro de suivi est envoyé par email après expédition." },
+    { "input": "où est mon colis", "output": "Votre numéro de suivi est envoyé par email après expédition." },
+    { "input": "mon colis", "output": "Votre numéro de suivi est envoyé par email après expédition." },
+    { "input": "tracking", "output": "Votre numéro de suivi est envoyé par email après expédition." },
+
+    { "input": "contact", "output": "Écrivez-nous à contact@abshop.com, réponse sous 24h." },
+    { "input": "contacter le support", "output": "Écrivez-nous à contact@abshop.com, réponse sous 24h." },
+    { "input": "email", "output": "Écrivez-nous à contact@abshop.com, réponse sous 24h." },
+    { "input": "service client", "output": "Écrivez-nous à contact@abshop.com, réponse sous 24h." },
+
+    { "input": "promo", "output": "Inscrivez-vous à la newsletter pour recevoir -10% sur votre première commande !" },
+    { "input": "réduction", "output": "Inscrivez-vous à la newsletter pour recevoir -10% sur votre première commande !" },
+    { "input": "vous avez des promos", "output": "Inscrivez-vous à la newsletter pour recevoir -10% sur votre première commande !" },
+    { "input": "code promo", "output": "Suivez-nous sur les réseaux sociaux pour recevoir nos codes promo exclusifs." },
+    { "input": "soldes", "output": "Inscrivez-vous à la newsletter pour recevoir -10% sur votre première commande !" },
+
+    { "input": "commander", "output": "Choisissez votre produit, ajoutez au panier et validez votre commande." },
+    { "input": "je veux acheter", "output": "Choisissez votre produit, ajoutez au panier et validez votre commande." },
+    { "input": "comment commander", "output": "Choisissez votre produit, ajoutez au panier et validez votre commande." },
+    { "input": "acheter", "output": "Choisissez votre produit, ajoutez au panier et validez votre commande." },
+    { "input": "panier", "output": "Choisissez votre produit, ajoutez au panier et validez votre commande." },
+
+    { "input": "prix", "output": "Les prix sont affichés sur chaque fiche produit de notre site." },
+    { "input": "combien ça coûte", "output": "Les prix sont affichés sur chaque fiche produit de notre site." },
+    { "input": "c est cher", "output": "Nous proposons les meilleurs prix avec des promos régulières !" },
+    { "input": "tarif", "output": "Les prix sont affichés sur chaque fiche produit de notre site." },
+
+    { "input": "créer un compte", "output": "Cliquez sur S'inscrire en haut du site et remplissez le formulaire." },
+    { "input": "inscription", "output": "Cliquez sur S'inscrire en haut du site et remplissez le formulaire." },
+    { "input": "mot de passe oublié", "output": "Cliquez sur Mot de passe oublié sur la page de connexion." },
+    { "input": "connexion", "output": "Cliquez sur Se connecter en haut du site avec votre email et mot de passe." },
+
+    { "input": "merci", "output": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions." },
+    { "input": "super", "output": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions." },
+    { "input": "d accord", "output": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions." },
+    { "input": "ok", "output": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions." },
+    { "input": "parfait", "output": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions." },
+    { "input": "au revoir", "output": "Au revoir ! Bonne visite sur AbShop." },
+    { "input": "bye", "output": "Au revoir ! Bonne visite sur AbShop." },
+    { "input": "à bientôt", "output": "Au revoir ! Bonne visite sur AbShop." }
+  ]
+}

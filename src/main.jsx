@@ -8,6 +8,7 @@ import Services from './pages/Services'
 import Contacts from './pages/Contacts'
 import About from './pages/About'
 import Header from './components/Header'
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Router>
